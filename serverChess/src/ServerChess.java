@@ -1,8 +1,3 @@
-package stas8987.chess.server;
-
-import stas8987.chess.network.TCPConnect;
-import stas8987.chess.network.TCPConnectList;
-
 import java.io.IOException;
 import java.net.ServerSocket;
 import java.util.ArrayList;

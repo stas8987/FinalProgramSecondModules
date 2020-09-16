@@ -1,5 +1,3 @@
-package stas8987.chess.network;
-
 import java.io.*;
 import java.net.Socket;
 import java.nio.charset.Charset;
